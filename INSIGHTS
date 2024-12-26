@@ -1,0 +1,47 @@
+# FNP-Sales-Analysis
+📊 The MS Excel Sales Analysis Dashboard highlights revenue trends, customer spending, top products, and seasonal demand. It tracks regional performance, delivery metrics, and quarterly insights. Showcasing data-driven decision-making, it optimizes sales and marketing strategies using advanced Power BI skills. 🚀📈
+
+Overall Performance
+Total Orders: 1000
+Total Revenue: ₹3,520,984
+Average Days Taken to Deliver: 5.53 days
+Average Customer Spending: ₹3,521
+
+Revenue by Category
+Top Performing Categories:
+Soft Toys
+Sweets
+Colors
+
+Lowest Performing Category:
+Mugs
+
+Revenue by Quarters
+Quarter 3 (July - Sept) had the highest revenue of ₹1,311,800, representing 37% of the total revenue.
+Quarter 2 (April - June) had the lowest revenue of ₹448,652, representing 13% of the total revenue.
+
+Revenue by Occasions
+All Occasions is the top performing occasion with revenue exceeding ₹500,000.
+Raksha Bandhan has revenue exceeding ₹600,000.
+Holi and Birthday both have revenue exceeding ₹400,000.
+
+Revenue by Month
+August had the highest revenue of ₹700,000.
+January and May had the lowest revenue of ₹100,000.
+February, March, and June had revenue exceeding ₹300,000.
+
+Top 10 Cities by Orders
+Bhatpara had the most orders with a count of 21.
+North Dumdum had the lowest orders with a count of 10.
+
+Top 10 Products by Revenue
+Total is the top performing product with revenue exceeding ₹150,000.
+Dessert Box and Digital Gems Pack both have revenue exceeding ₹120,000.
+
+Weekly Orders
+Tuesday had the highest orders with a count of 170.
+Monday had the lowest orders with a count of 140.
+
+Further Analysis
+Analyze the correlation between revenue and the number of orders.
+Investigate the reason for the significant revenue drop in Quarter 2 and the corresponding lower customer spending.
